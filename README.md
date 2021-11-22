@@ -49,7 +49,7 @@ The problem is solved by the following approach:
 
 Simple eslint and jest test cases are covered too.
 
-####Note
+#### Note
 I have simple validations on the inputs, but that is not enough. There are many use cases, which
 the input validator or the input parser have ignored (for now, due to time constraints). Just FYI.. 
 
