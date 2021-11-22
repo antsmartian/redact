@@ -1,4 +1,4 @@
-###API
+### API
 
 `redact` takes the following argument:
 
@@ -20,6 +20,14 @@ npm run test
 #### Running
 
 Have a look at `playground.js`, where you can hit the API `redact`
+
+To run test/lint cases:
+
+```
+npm i 
+```
+
+and then run respective scripts
 
 
 #### Thoughts and design consideration
